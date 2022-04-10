@@ -1,0 +1,38 @@
+step1- install node js
+step2- install expo go app in mobile phone
+step3- install npm install -g expo-cli
+step4- check node and npm version "node --vesrsion" "npm --version"
+step5- create project "expo init projectName"
+
+working in visual studio code
+step1-create app.js and add js code
+step2-create utils folder and create files "api.js" and "getImageWeather.js"
+step3-copy and paste the required images in assets folder
+step4-create folder named components and create file "SearchInput.js"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+''
+\
